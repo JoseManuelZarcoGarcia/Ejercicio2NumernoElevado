@@ -1,0 +1,14 @@
+C:\Users\csi22-jzarcia\source\repos\Ejercicio2NumernoElevado\bin\Debug\net6.0\Ejercicio2NumernoElevado.exe
+C:\Users\csi22-jzarcia\source\repos\Ejercicio2NumernoElevado\bin\Debug\net6.0\Ejercicio2NumernoElevado.deps.json
+C:\Users\csi22-jzarcia\source\repos\Ejercicio2NumernoElevado\bin\Debug\net6.0\Ejercicio2NumernoElevado.runtimeconfig.json
+C:\Users\csi22-jzarcia\source\repos\Ejercicio2NumernoElevado\bin\Debug\net6.0\Ejercicio2NumernoElevado.dll
+C:\Users\csi22-jzarcia\source\repos\Ejercicio2NumernoElevado\bin\Debug\net6.0\Ejercicio2NumernoElevado.pdb
+C:\Users\csi22-jzarcia\source\repos\Ejercicio2NumernoElevado\obj\Debug\net6.0\Ejercicio2NumernoElevado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi22-jzarcia\source\repos\Ejercicio2NumernoElevado\obj\Debug\net6.0\Ejercicio2NumernoElevado.AssemblyInfoInputs.cache
+C:\Users\csi22-jzarcia\source\repos\Ejercicio2NumernoElevado\obj\Debug\net6.0\Ejercicio2NumernoElevado.AssemblyInfo.cs
+C:\Users\csi22-jzarcia\source\repos\Ejercicio2NumernoElevado\obj\Debug\net6.0\Ejercicio2NumernoElevado.csproj.CoreCompileInputs.cache
+C:\Users\csi22-jzarcia\source\repos\Ejercicio2NumernoElevado\obj\Debug\net6.0\Ejercicio2NumernoElevado.dll
+C:\Users\csi22-jzarcia\source\repos\Ejercicio2NumernoElevado\obj\Debug\net6.0\refint\Ejercicio2NumernoElevado.dll
+C:\Users\csi22-jzarcia\source\repos\Ejercicio2NumernoElevado\obj\Debug\net6.0\Ejercicio2NumernoElevado.pdb
+C:\Users\csi22-jzarcia\source\repos\Ejercicio2NumernoElevado\obj\Debug\net6.0\Ejercicio2NumernoElevado.genruntimeconfig.cache
+C:\Users\csi22-jzarcia\source\repos\Ejercicio2NumernoElevado\obj\Debug\net6.0\ref\Ejercicio2NumernoElevado.dll
